@@ -30,6 +30,13 @@ Data analyst with cross-functional project experience in the automotive sector, 
 #### Google Data Analytics | Online Professional Certificate | May 2023 | [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
 #### Philosophy | Bachelor of Arts | Jan. 2019 | National Chengchi University, Taiwan
 
+| Time of Completion | Subject | Title | Location |
+|:-------------------|:--------|:------|----------|
+| Nov. 2023 | Data Analytics | Certificate | Online Bootcamp [CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/)
+| May 2023 | Google Data Analytics | Professional Certificate | Online [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
+| Jan. 2009 | Philosophy | Bachelor of Arts | [National Chengchi University](https://www.nccu.edu.tw), Taiwan
+
+
 # Work Experience
 # Internships
 # Languages
