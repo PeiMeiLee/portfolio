@@ -1,6 +1,6 @@
-## Projects
-# Project 1
-# Project 2
+# Projects
+## Project 1
+## Project 2
 
-## Education
-## Work Experience
+# Education
+# Work Experience
