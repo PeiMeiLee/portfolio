@@ -38,7 +38,7 @@ Trilingual Data analyst with cross-functional project experience in the automoti
 ##### Board Member Accounting / Language Teacher <br>
 Defined and implemented data-driven measures to turn losses into profits. Utilized data to direct marketing efforts and increased number of students by 22%. Presented annual financial report to supervisory board and passed audit with no discrepancies. 
 #### Oct. 2018 - May 2020 | Jangled Nerves GmbH
-Creative Agency Translator <br>
+- Creative Agency Translator <br>
 Facilitated internal and external communication with Chinese colleagues and clients. Participated in creative decision-making process and conducted research for exhibition content. Responsible for all text production in Chinese.
 #### Oct. 2014 - May 2017 | Freelance
 Translator / Language Teacher <br>
