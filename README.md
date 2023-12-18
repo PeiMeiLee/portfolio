@@ -50,10 +50,12 @@ Compiled department briefings for monthly board meetings, informing executive de
 Maintained component weight data and contributed in reducing vehicle weight to pass homologation. Lead a company-wide car seat ergonomics survey, processed data and presented results to CEO and COO. Enhanced collaboration between joint venture shareholders
 
 # Internships
+
 - Localization of Vehicle Models | Mercedes-Benz R&D China
 - Engineering Support for Foreign Plants | Mercedes-Benz R&D Germany
   
 # Languages
+
 - Chinese: Native Speaker
 - German: Business Proficient 
 - English: Business Proficient
