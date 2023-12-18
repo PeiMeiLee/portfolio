@@ -28,7 +28,7 @@ Trilingual Data analyst with cross-functional project experience in the automoti
 # Education
 
 |:-------------------|:----------------------|:------------|----------|
-| Nov. 2023          | Data Analytics Program      | Certificate | [Online Bootcamp](https://careerfoundry.com/en/courses/become-a-data-analyst/)
+| Nov. 2023          | Data Analytics Program      | Certificate | [Online Boot Camp](https://careerfoundry.com/en/courses/become-a-data-analyst/)
 | May 2023           | Google Data Analytics | Professional Certificate | [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
 | Jan. 2009 | Philosophy | Bachelor of Arts | [National Chengchi University](https://www.nccu.edu.tw)
 
