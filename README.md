@@ -35,13 +35,13 @@ Trilingual Data analyst with cross-functional project experience in the automoti
 
 # Work Experience
 #### Sep. 2017 - Mar. 2023 | Chinesische Schule Stuttgart e.V. 
-Board Member Accounting / Language Teacher 
+##### Board Member Accounting / Language Teacher <br>
 Defined and implemented data-driven measures to turn losses into profits. Utilized data to direct marketing efforts and increased number of students by 22%. Presented annual financial report to supervisory board and passed audit with no discrepancies. 
 #### Oct. 2018 - May 2020 | Jangled Nerves GmbH
-Creative Agency Translator
+Creative Agency Translator <br>
 Facilitated internal and external communication with Chinese colleagues and clients. Participated in creative decision-making process and conducted research for exhibition content. Responsible for all text production in Chinese.
 #### Oct. 2014 - May 2017 | Freelance
-Translator / Language Teacher
+Translator / Language Teacher <br>
 Offered tailor-made lessons and translation solutions. Expanded client base through proactive self-marketing and networking
 #### Jul. 2011 - Jul. 2014 | Daimler Greater China Ltd.
 - Assistant to VP Sales & Marketing
