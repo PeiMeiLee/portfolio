@@ -2,7 +2,7 @@ title: Pei-Mei Lee
 logo: /assets/img/Lee_Pei-Mei_HIL2622.jpeg
 description:
 - lee.peimei@gmail.com <br> +49 160-899-5910 <br> 70499 Stuttgart <br> linkedin.com/in/peimeilee
-show_downloads: true
+#show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
