@@ -28,7 +28,7 @@ Trilingual Data analyst with cross-functional project experience in the automoti
 
 # Education
 
-| Time of Completion | Subject               | Title       | Location |
+|                    |                       |          |   |
 |:-------------------|:----------------------|:------------|----------|
 | Nov. 2023          | Data Analytics        | Certificate | Online Bootcamp [CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/)
 | May 2023           | Google Data Analytics | Professional Certificate | Online [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
