@@ -51,8 +51,8 @@ Maintained component weight data and contributed in reducing vehicle weight to p
 
 # Internships
 
-:heavy_check_mark: Localization of Vehicle Models, Mercedes-Benz R&D China <br>
-:heavy_check_mark: Engineering Support for Foreign Plants, Mercedes-Benz R&D Germany
+- Localization of Vehicle Models, Mercedes-Benz R&D China
+- Engineering Support for Foreign Plants, Mercedes-Benz R&D Germany
   
 # Languages
 
