@@ -29,13 +29,13 @@ Trilingual Data analyst with cross-functional project experience in the automoti
 # Education
 
 |:-------------------|:----------------------|:------------|----------|
-| Nov. 2023          | Data Analytics        | Certificate | Online Bootcamp [CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/)
-| May 2023           | Google Data Analytics | Professional Certificate | Online [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
+| Nov. 2023          | Data Analytics Program      | Certificate | Online Bootcamp [CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/)
+| May 2023           | Google Data Analytics | Professional Certificate | [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
 | Jan. 2009 | Philosophy | Bachelor of Arts | [National Chengchi University](https://www.nccu.edu.tw), Taiwan
 
 # Work Experience
 ### Sep. 2017 - Mar. 2023 | Chinesische Schule Stuttgart e.V. 
-#### Board Member Accounting / Language Teacher <br>
+**Board Member Accounting / Language Teacher** <br>
 Defined and implemented data-driven measures to turn losses into profits. Utilized data to direct marketing efforts and increased number of students by 22%. Presented annual financial report to supervisory board and passed audit with no discrepancies. 
 ### Oct. 2018 - May 2020 | Jangled Nerves GmbH
 #### Creative Agency Translator <br>
