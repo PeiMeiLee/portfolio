@@ -1,5 +1,5 @@
 # Summary
-Trilingual Data analyst with cross-functional project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategy. Embrace business challenges with analytical rigor, ethical values and a can-do attitude. A lifetime learner.
+Data analyst with cross-functional Electric Vehicle project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategies for an NGO. Analytical rigor, ethical values and a can-do attitude. A lifetime learner.
 
 # Expertise
 - Data Cleaning & Wrangling
