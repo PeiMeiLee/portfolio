@@ -7,7 +7,8 @@ Performed data cleaning and wrangling, conducted analysis and derived insights a
 [Instacart Online Grocery](https://github.com/PeiMeiLee/Instacart_OnlineGrocery_2017)             
 Analyzed and visualized e-commerce data and customer data to study purchasing behavior, performed customer segmentation and compared regional sales trends, informing marketing strategies. <br>
 [Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020)             
-Business Insights
+Business Insights <br>
+[View full portfolio](Portfolio_PeiMei_Lee.pdf)
 
 # Education
 
