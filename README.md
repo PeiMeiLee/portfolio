@@ -8,7 +8,8 @@ Performed data cleaning and wrangling, conducted analysis and derived insights a
 Analyzed and visualized e-commerce data and customer data to study purchasing behavior, performed customer segmentation and compared regional sales trends, informing marketing strategies. <br>
 [Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020)             
 Business Insights <br>
-[View full portfolio](Portfolio_PeiMei_Lee.pdf)
+<br>
+[-> Click to view full portfolio!](Portfolio_PeiMei_Lee.pdf)
 
 # Education
 
