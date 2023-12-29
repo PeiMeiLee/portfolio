@@ -9,25 +9,6 @@ Analyzed and visualized e-commerce data and customer data to study purchasing be
 [Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020)             
 Business Insights
 
-# Skills
-- Data Cleaning & Wrangling
-- Data Visualization
-- Dashboards & Executive Reporting 
-- Databases & Queries
-- Web & E-Commerce Analytics
-- Predictive Analytics
-- Machine Learning Fundamentals 
-- Data Ethics
-
-# Tools
-- Microsoft Excel
-- Microsoft PowerPoint
-- PostgreSQL
-- MySQL
-- Tableau
-- Python
-- GitHub
-
 # Education
 
 |:-------------------|:----------------------|:------------|----------|
@@ -66,6 +47,25 @@ Business Insights
 # Internships
 - Localization of Vehicle Models, Mercedes-Benz R&D Center China
 - Engineering Support for Foreign Plants, Mercedes-Benz R&D Center Germany
+
+# Skills
+- Data Cleaning & Wrangling
+- Data Visualization
+- Dashboards & Executive Reporting 
+- Databases & Queries
+- Web & E-Commerce Analytics
+- Predictive Analytics
+- Machine Learning Fundamentals 
+- Data Ethics
+
+# Tools
+- Microsoft Excel
+- Microsoft PowerPoint
+- PostgreSQL
+- MySQL
+- Tableau
+- Python
+- GitHub
   
 # Languages
 - Chinese: Native Speaker
