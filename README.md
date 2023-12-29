@@ -2,9 +2,12 @@
 Data analyst with cross-functional Electric Vehicle project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategies for an NGO. Analytical rigor, ethical values and a can-do attitude. A lifetime learner.
 
 # Projects
-[New York Citywide Mobility Survey](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019) | City Mobility Insights <br>  
-[Instacart Online Grocery](https://github.com/PeiMeiLee/Instacart_OnlineGrocery_2017) | Marketing Strategies <br>  
-[Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020) | Business Insights <br>  
+[New York Citywide Mobility Survey](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019) <br>  
+Performed data cleaning and wrangling, conducted analysis and derived insights about New York residents’ mobility needs and preferences. Conducted exploratory analysis, linear regression analysis and clustering analysis. <br>
+[Instacart Online Grocery](https://github.com/PeiMeiLee/Instacart_OnlineGrocery_2017) <br>  
+Analyzed and visualized e-commerce data and customer data to study purchasing behavior, performed customer segmentation and compared regional sales trends, informing marketing strategies. <br>
+[Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020) <br>
+Business Insights
 
 # Skills
 - Data Cleaning & Wrangling
