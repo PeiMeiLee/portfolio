@@ -4,7 +4,7 @@ Data analyst with cross-functional Electric Vehicle project experience in the au
 # Projects
 [New York Citywide Mobility Survey](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019)  
 Performed data cleaning and wrangling, conducted analysis and derived insights about New York residents’ mobility needs and preferences. Conducted exploratory analysis, linear regression analysis and clustering analysis. <br>
-[Instacart Online Grocery](https://github.com/PeiMeiLee/Instacart_OnlineGrocery_2017) 
+[Instacart Online Grocery](https://github.com/PeiMeiLee/Instacart_OnlineGrocery_2017)             
 Analyzed and visualized e-commerce data and customer data to study purchasing behavior, performed customer segmentation and compared regional sales trends, informing marketing strategies. <br>
 [Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020)
 Business Insights
