@@ -48,5 +48,5 @@ Data analyst with electric vehicle project experience in the automotive sector, 
 - English: Business Proficient
 - Czech: Basics
 
-[-> Download my CV](CV_PeiMei_Lee.pdf)
+[-> Download my CV](CV_PeiMei_Lee.pdf)<br>
 [-> View my LinkedIn profile](https://linkedin.com/in/peimeilee)
