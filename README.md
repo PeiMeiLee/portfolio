@@ -1,18 +1,20 @@
-# Summary
+# About Me
 Data analyst with cross-functional Electric Vehicle project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategies for an NGO. Analytical rigor, ethical values and a can-do attitude. A lifetime learner.
 
 # Projects
 [New York Citywide Mobility Survey](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019)  
 - Performed data cleaning and wrangling, conducted analysis and derived insights about New York residents’ mobility needs and preferences.
-- Conducted exploratory analysis, linear regression analysis and clustering analysis. <br>
+- Conducted exploratory analysis, linear regression analysis and clustering analysis.
+<br>
 [Instacart Online Grocery](https://github.com/PeiMeiLee/Instacart_OnlineGrocery_2017)             
 - Analyzed and visualized e-commerce data and customer data to study purchasing behavior.
-- Performed customer segmentation and compared regional sales trends, informing marketing strategies. <br>
+- Performed customer segmentation and compared regional sales trends, informing marketing strategies.
+<br>
 [Rockbuster Online Video Rental](https://github.com/PeiMeiLee/Rockbuster_OnlineVideoService_2020)             
 - Conducted SQL queries to analyze customer and sales data and answer various business questions.
-- Compiled analysis findings into an easily digestible format for executives. <br>
+- Compiled analysis findings into an easily digestible format for executives.
 <br>
-[=> Click to view full portfolio!](Portfolio_PeiMei_Lee.pdf)
+[=> Click to view full portfolio](Portfolio_PeiMei_Lee.pdf)
 
 # Education
 
@@ -46,6 +48,6 @@ Data analyst with cross-functional Electric Vehicle project experience in the au
 - English: Business Proficient
 - Czech: Basics
 
-[=> Click to view my CV!](CV_PeiMei_Lee.pdf)
+[=> Click to view my CV](CV_PeiMei_Lee.pdf)
 
 
