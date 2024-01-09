@@ -1,5 +1,6 @@
 # About Me
-Data analyst with electric vehicle project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategies for an NGO. Analytical rigor, ethical values and a can-do attitude. A lifetime learner.
+Hello! I'm Peimei, originally from Taipei, Taiwan, but currently calling Stuttgart, Germany, home. Spending most of my adulthood working and living abroad, I am no stranger  to cross-cultural communication and cooperation. As a Data Analyst with a background in the automotive sector, I bring fluency in German, English, and Chinese to the table.
+I've successfully established data-driven processes and transformed insights into effective marketing strategies during my tenure at an NGO. And I can't wait to solve bigger problems and find greater insights.  
 
 # Projects
 [New York Citywide Mobility Survey](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019)  
@@ -47,6 +48,10 @@ Data analyst with electric vehicle project experience in the automotive sector, 
 - German: Business Proficient
 - English: Business Proficient
 - Czech: Basics
+
+# Contact Me
+Mobile: +49 160 899 5910 <br>
+E-Mail: lee.peimei@gmail.com
 
 [-> Download my CV](CV_PeiMei_Lee.pdf)<br>
 [-> View my LinkedIn profile](https://linkedin.com/in/peimeilee)
