@@ -1,5 +1,5 @@
 # About Me
-Hello! I'm Peimei, originally from Taipei, Taiwan, and currently calling Stuttgart, Germany, home. Spending most of my adulthood working and living abroad, I am no stranger  to cross-cultural communication and cooperation. As a Data Analyst with a background in the automotive sector, I bring fluency in German, English, and Chinese to the table.
+Hello! I'm Pei-Mei, originally from Taipei, Taiwan, and currently calling Stuttgart, Germany, home. Spending most of my adulthood working and living abroad, I am no stranger  to cross-cultural communication and cooperation. As a Data Analyst with a background in the automotive sector, I bring fluency in German, English, and Chinese to the table.
 I've successfully established data-driven processes and transformed insights into effective marketing strategies during my tenure at an NGO. And I can't wait to solve bigger problems and find greater insights in my next role.  
 
 # Projects
