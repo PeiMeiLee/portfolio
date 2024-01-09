@@ -14,7 +14,7 @@ Data analyst with electric vehicle project experience in the automotive sector, 
 - Conducted SQL queries to analyze customer and sales data and answer various business questions.
 - Compiled analysis findings into an easily digestible format for executives.
 
-[-> Click to view full portfolio](Portfolio_PeiMei_Lee.pdf)
+[-> View full portfolio](Portfolio_PeiMei_Lee.pdf)
 
 # Education
 
@@ -48,4 +48,5 @@ Data analyst with electric vehicle project experience in the automotive sector, 
 - English: Business Proficient
 - Czech: Basics
 
-[-> Click to view my CV](CV_PeiMei_Lee.pdf)
+[-> Download my CV](CV_PeiMei_Lee.pdf)
+[-> View my LinkedIn profile](https://linkedin.com/in/peimeilee)
