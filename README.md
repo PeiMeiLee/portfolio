@@ -1,5 +1,5 @@
 # About Me
-Data analyst with cross-functional Electric Vehicle project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategies for an NGO. Analytical rigor, ethical values and a can-do attitude. A lifetime learner.
+Data analyst with electric vehicle project experience in the automotive sector, fluent in German, English and Chinese. Success in establishing data-driven processes and turning data insights into marketing strategies for an NGO. Analytical rigor, ethical values and a can-do attitude. A lifetime learner.
 
 # Projects
 [New York Citywide Mobility Survey](https://github.com/PeiMeiLee/NYC_CitywideMobilitySurvey_2019)  
