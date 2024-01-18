@@ -53,5 +53,5 @@ I've successfully established data-driven processes and transformed insights int
 Mobile: +49 160 899 5910 <br>
 E-Mail: lee.peimei@gmail.com
 
-[-> Download my CV](CV_PeiMei_Lee.pdf)<br>
+[-> Download my CV](PeiMei_Lee.pdf)<br>
 [-> View my LinkedIn profile](https://linkedin.com/in/peimeilee)
