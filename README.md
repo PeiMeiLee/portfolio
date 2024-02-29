@@ -24,6 +24,11 @@ I've successfully established data-driven processes and transformed insights int
 | May 2023           | Google Data Analytics | Professional Certificate | [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?)
 | Jan. 2009 | Philosophy | Bachelor of Arts | [National Chengchi University](https://www.nccu.edu.tw)
 
+# Further Courses
+- MySQL for Ecommerce & Web Analytics
+- Advanced Excel Formulars & Functions
+- Data Analysis with Excel Pivot Tables
+
 # Skills
 - Data Cleaning & Wrangling
 - Data Visualization
