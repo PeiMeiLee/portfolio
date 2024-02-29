@@ -25,6 +25,7 @@ I've successfully established data-driven processes and transformed insights int
 | Jan. 2009 | Philosophy | Bachelor of Arts | [National Chengchi University](https://www.nccu.edu.tw)
 
 # Further Courses
+- MySQL Database Administration
 - MySQL for Ecommerce & Web Analytics
 - Advanced Excel Formulars & Functions
 - Data Analysis with Excel Pivot Tables
