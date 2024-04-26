@@ -3,7 +3,7 @@ logo: /assets/img/Lee_Pei-Mei_HIL2622.jpg
 #description:
 #lee.peimei@gmail.com <br> +49 160 899 5910 <br> Stuttgart, Germany <br> linkedin.com/in/peimeilee
 #show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 google_analytics:G-YPQ0YY2KD7
