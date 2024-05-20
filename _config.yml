@@ -6,4 +6,3 @@ logo: /assets/img/Lee_Pei-Mei_HIL2622.jpg
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-google_analytics:G-YPQ0YY2KD7
